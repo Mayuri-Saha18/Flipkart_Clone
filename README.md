@@ -10,10 +10,11 @@ user registration and login, user profile section, add to cart and checkout page
 
 | Team members | Github-profiles |
 | ------ | ------ |
+| Aniket Pandey | <https://github.com/aniketpandey2912> |
 | Chandra Shekhar Joshi | <https://github.com/Shekhar-Joshi07> |
-| Aniket Pandey | <https://github.com/aniketpandey2912> | 
-| Piryanshu Bisht | <https://github.com/Piryanshu88> |
 | Mayuri Saha |  <https://github.com/Mayuri-Saha18> |
+| Piryanshu Bisht | <https://github.com/Piryanshu88> |
+
 
 
 <h2>🌐See Live here 👇</h2>
