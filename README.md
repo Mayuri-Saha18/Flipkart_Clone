@@ -25,23 +25,23 @@ Netlify Link: https://flopkart-online-app.netlify.app/
 <h2>Sneak Peek of website</h2>
 
 
-<img src="https://user-images.githubusercontent.com/110104542/221485467-a347d3ed-014b-4cb9-ba9d-20fb6ead827a.png" alt="project-screenshot" width="500" height="250/">
+<img src="https://user-images.githubusercontent.com/110104542/221485467-a347d3ed-014b-4cb9-ba9d-20fb6ead827a.png" alt="project-screenshot" width="900" height="250/">
 
-<img src="https://user-images.githubusercontent.com/110104542/221485580-9273e7f0-06c4-400f-b55e-0e81f3b5dee9.png" alt="project-screenshot" width="500" height="250/">
-
-
-<img src="https://user-images.githubusercontent.com/110104542/221485623-e14f8b2e-16fa-46d3-bb45-0c15f1474242.png" alt="project-screenshot" width="500" height="250/">
+<img src="https://user-images.githubusercontent.com/110104542/221485580-9273e7f0-06c4-400f-b55e-0e81f3b5dee9.png" alt="project-screenshot" width="900" height="250/">
 
 
-<img src="https://user-images.githubusercontent.com/110104542/221485641-3186e07b-2dfd-41fa-961a-51d710679b52.png" alt="project-screenshot" width="500" height="250/">
+<img src="https://user-images.githubusercontent.com/110104542/221485623-e14f8b2e-16fa-46d3-bb45-0c15f1474242.png" alt="project-screenshot" width="900" height="250/">
 
 
-<img src="https://user-images.githubusercontent.com/110104542/221485661-5176dd48-f457-41e1-8d5f-08ec88c2648c.png" alt="project-screenshot" width="500" height="250/">
+<img src="https://user-images.githubusercontent.com/110104542/221485641-3186e07b-2dfd-41fa-961a-51d710679b52.png" alt="project-screenshot" width="900" height="250/">
 
 
-<img src="https://user-images.githubusercontent.com/110104542/221485667-7480a44a-76d3-4427-931e-4a983e823107.png" alt="project-screenshot" width="500" height="250/">
-<img src="https://user-images.githubusercontent.com/110104542/221485688-9e798fb3-7308-43b1-abe2-64c16bd55163.png" alt="project-screenshot" width="500" height="250/">
-<img src="https://user-images.githubusercontent.com/110104542/221485696-5e82e644-2194-4155-b81d-c5f6428ae8fe.png" alt="project-screenshot" width="500" height="250/">
+<img src="https://user-images.githubusercontent.com/110104542/221485661-5176dd48-f457-41e1-8d5f-08ec88c2648c.png" alt="project-screenshot" width="900" height="250/">
+
+
+<img src="https://user-images.githubusercontent.com/110104542/221485667-7480a44a-76d3-4427-931e-4a983e823107.png" alt="project-screenshot" width="900" height="250/">
+<img src="https://user-images.githubusercontent.com/110104542/221485688-9e798fb3-7308-43b1-abe2-64c16bd55163.png" alt="project-screenshot" width="900" height="250/">
+<img src="https://user-images.githubusercontent.com/110104542/221485696-5e82e644-2194-4155-b81d-c5f6428ae8fe.png" alt="project-screenshot" width="900" height="250/">
 
 <h2>🛠️ Installation Steps:</h2>
 
